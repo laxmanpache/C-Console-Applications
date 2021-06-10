@@ -1,0 +1,7 @@
+C:\Users\Laxman\source\repos\EmployValidation\EmployValidation\bin\Debug\EmployValidation.exe.config
+C:\Users\Laxman\source\repos\EmployValidation\EmployValidation\bin\Debug\EmployValidation.exe
+C:\Users\Laxman\source\repos\EmployValidation\EmployValidation\bin\Debug\EmployValidation.pdb
+C:\Users\Laxman\source\repos\EmployValidation\EmployValidation\obj\Debug\EmployValidation.csprojAssemblyReference.cache
+C:\Users\Laxman\source\repos\EmployValidation\EmployValidation\obj\Debug\EmployValidation.csproj.CoreCompileInputs.cache
+C:\Users\Laxman\source\repos\EmployValidation\EmployValidation\obj\Debug\EmployValidation.exe
+C:\Users\Laxman\source\repos\EmployValidation\EmployValidation\obj\Debug\EmployValidation.pdb
