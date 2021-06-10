@@ -1,0 +1,7 @@
+C:\Users\Laxman\Documents\Visual Studio 2019\DATABASEEMPLOY\DATABASEEMPLOY\bin\Debug\DATABASEEMPLOY.exe.config
+C:\Users\Laxman\Documents\Visual Studio 2019\DATABASEEMPLOY\DATABASEEMPLOY\bin\Debug\DATABASEEMPLOY.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\DATABASEEMPLOY\DATABASEEMPLOY\bin\Debug\DATABASEEMPLOY.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\DATABASEEMPLOY\DATABASEEMPLOY\obj\Debug\DATABASEEMPLOY.csprojAssemblyReference.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\DATABASEEMPLOY\DATABASEEMPLOY\obj\Debug\DATABASEEMPLOY.csproj.CoreCompileInputs.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\DATABASEEMPLOY\DATABASEEMPLOY\obj\Debug\DATABASEEMPLOY.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\DATABASEEMPLOY\DATABASEEMPLOY\obj\Debug\DATABASEEMPLOY.pdb
