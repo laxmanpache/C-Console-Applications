@@ -1,0 +1,6 @@
+C:\Users\Laxman\Documents\Visual Studio 2019\CLSLEMPLOYEE\CLSLEMPLOYEE\bin\Debug\CLSLEMPLOYEE.dll
+C:\Users\Laxman\Documents\Visual Studio 2019\CLSLEMPLOYEE\CLSLEMPLOYEE\bin\Debug\CLSLEMPLOYEE.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\CLSLEMPLOYEE\CLSLEMPLOYEE\obj\Debug\CLSLEMPLOYEE.csproj.CoreCompileInputs.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\CLSLEMPLOYEE\CLSLEMPLOYEE\obj\Debug\CLSLEMPLOYEE.dll
+C:\Users\Laxman\Documents\Visual Studio 2019\CLSLEMPLOYEE\CLSLEMPLOYEE\obj\Debug\CLSLEMPLOYEE.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\CLSLEMPLOYEE\CLSLEMPLOYEE\obj\Debug\CLSLEMPLOYEE.csproj.AssemblyReference.cache
