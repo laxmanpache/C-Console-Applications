@@ -1,0 +1,7 @@
+C:\Users\Laxman\Documents\Visual Studio 2019\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Laxman\Documents\Visual Studio 2019\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Laxman\Documents\Visual Studio 2019\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojAssemblyReference.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\Laxman\Documents\Visual Studio 2019\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Laxman\Documents\Visual Studio 2019\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
